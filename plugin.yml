@@ -1,0 +1,6 @@
+name: Economy
+version: 1.0.0
+main: economy\Main
+src-namespace-prefix: economy
+api: 5.0.0
+author: Synopsie
